@@ -1,0 +1,10 @@
+m=list(map(int, input().split()))
+n=[]
+for i in range(min(a), max(a)):
+n.append(1)
+if i>0:
+if i not in m:
+print(i)
+break
+if(i==a):
+print(max(a)+1)
