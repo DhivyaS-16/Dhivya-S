@@ -1,0 +1,9 @@
+m=list(map(int,input().split()))
+n=0
+for i in m:
+r=1
+for j in m:
+if i!=j
+r=r*j
+n.append(r)
+print(n)
